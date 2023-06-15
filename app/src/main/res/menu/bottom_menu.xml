@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/searchItem"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Search" />
+    <item
+        android:id="@+id/mapItem"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        android:title="Map" />
+    <item
+        android:id="@+id/rrrItem"
+        android:icon="@drawable/subway_image"
+        android:title="RRR" />
+    <item
+        android:id="@+id/alarmItem"
+        android:icon="@drawable/ic_alarm_white"
+        android:title="Alarm" />
+</menu>
